@@ -1,2 +1,2 @@
-# perceptron
-A perceptron implementation in rust
+# Perceptron
+A simple perceptron implemented in rust
